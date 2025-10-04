@@ -1,6 +1,6 @@
 {
   "name": "react-railway",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "React",
     "MUI",
@@ -41,5 +41,13 @@
     "@types/react-dom": "^19.1.9",
     "tsup": "^8.5.0",
     "typescript": "^5.9.2"
+  },
+  "homepage": "https://github.com/wowpixels/react-railway#readme",
+  "bugs": {
+    "url": "https://github.com/wowpixels/react-railway/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowpixels/react-railway.git"
   }
 }
